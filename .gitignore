@@ -22,3 +22,6 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+
+#avoid posting to github stuff that's not public domain
+*.mp4
